@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "asp-quiz"
+  },
+  "targets": {
+    "asp-quiz": {
+      "hosting": {
+        "github": [
+          "asp-github-search"
+        ]
+      }
+    }
+  }
+}
